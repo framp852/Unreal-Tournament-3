@@ -221,4 +221,4 @@ Unreal Tournament 3 is available as a full free version, with all features and u
 Don't miss out on the action! Download **Unreal Tournament 3** now and jump into the battle!
 
 ---
-**Last updated:** 2026-09-21 09:43:44 UTC
+**Last updated:** 2026-09-21 16:18:02 UTC
